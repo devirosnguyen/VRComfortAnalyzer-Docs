@@ -80,4 +80,4 @@ When reporting a problem, please include your Unity version, render pipeline, XR
 
 ---
 
-This repository contains documentation only. VR Comfort Analyzer is sold on the Unity Asset Store by JieYingStudio.
+This repository contains documentation only.
